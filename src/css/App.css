@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.card-header{
+  font-weight: 500;
+  font-style: bold;
+}
+
+#author{
+  text-align: right;
+  font-style: italic;
+  font-size: 1.1rem;
+  margin-top: -1rem;
+}
+
+#indexCounter{
+  text-align: left;
+  margin-bottom: -1rem;
+  font-size: 1rem;
+  font-style: italic;
+}
